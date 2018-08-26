@@ -20,11 +20,11 @@ body {
   color: #333;
 
   /* Visual */
-  background: #efeee7;
+  background: #ffffff;
 }
 
 header {
-  background: #d21034;
+  background:#cccccc;
 }
 
 h1 {
@@ -41,5 +41,5 @@ h1 {
   text-align: center;
 
   /* Visual */
-  background: #333;
+  background:#4aaaa5;
 }
